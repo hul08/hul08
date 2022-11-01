@@ -3,7 +3,7 @@
 <h1> Hi there, I'm Hu Li <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 50%;"> </h1>
 <h3 align="center">A passionate software project manager from Vancouver, BC.</h3>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=skyz03.visitor-badge) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hul08.visitor-badge) 
 [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 </div>
 
