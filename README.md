@@ -25,7 +25,7 @@
  
 ## ⚡ Follow Me On
 
-<a href="https://www.linkedin.com/in/hlica/" target="_blank"><img src="icons/linkedin.svg" alt="hlica" width="50px" /></a>
+<a href="https://www.linkedin.com/in/hlica/" target="_blank"><img src="linkedin.svg" alt="hlica" width="50px" /></a>
 
 
 <!--
