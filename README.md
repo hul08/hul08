@@ -9,7 +9,7 @@
 
 - University at New York Institute of Technology (NYIT)，Major in **CYBERSECURITY**💻
 
--  **12+**  years of hands-on enterprise project experience **ICT/BANKING/ENTERPRISE**
+-  **15+**  years of hands-on enterprise project experience **ICT/BANKING/ENTERPRISE**
    
 - 🔭 I’m currently working on firmware development, the Cybersecurity solutions includes SD-WAN, ZTNA, IPS, and NGFW
 
